@@ -2,8 +2,8 @@ import javax.swing.*;
   class Atm{
 
 public static void main (String args []){
-
-
+   
+//init commit
 	String moneyValue = JOptionPane.showInputDialog("Enter   money ");
 	
 	int money = Integer.parseInt(moneyValue);
