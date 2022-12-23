@@ -1,6 +1,6 @@
 import javax.swing.*;
-  class Atm{
-
+   class Atm{
+                                           
 public static void main (String args []){
    
 //init commit
