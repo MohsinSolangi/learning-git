@@ -1,15 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
 import javax.swing.*;
    class Atm{
                                            
