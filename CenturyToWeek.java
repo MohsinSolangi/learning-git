@@ -4,6 +4,23 @@ class CenturyToWeek{
 public static void main (String args[]){
 
 	Scanner as = new Scanner(System.in);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
 	System.out.print("Enter  century  ");
 	int century = as.nextInt();
