@@ -9,6 +9,18 @@ public static void main (String args[]){
 	int century = as.nextInt();
 
 	int  year = century*100;
+
+
+
+
+
+
+
+
+
+
+
+
 	
 		System.out.println("century  is "+century +" year will be :" + year );
 }
